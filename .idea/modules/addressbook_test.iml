@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.module.type="sourceSet" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="" externalSystemModuleVersion="unspecified" linkedProjectId="addressbook:test" linkedProjectPath="$MODULE_DIR$/../../addressbook" rootProjectPath="$MODULE_DIR$/../../addressbook" />
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../addressbook/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../addressbook/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../addressbook/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../addressbook/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="addressbook_main" />
+  </component>
+  <component name="TestModuleProperties" production-module="addressbook_main" />
+</module>
